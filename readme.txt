@@ -3,3 +3,4 @@ Git is free software distributed under the GP.
 insert new line;
 add things
 ok.handle
+not same method
